@@ -19,7 +19,7 @@ padding: 6em
 ---
 ## About the Psychiana Digital Collection
 
-The Psychiana Digital Collection documents one of the most fascinating religious movements of the 20th century.
+It's a collection.
 
 ### What Was Psychiana?
 
